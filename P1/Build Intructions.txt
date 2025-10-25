@@ -1,0 +1,45 @@
+How to Run This Project
+
+Project Structure:
+- var1/ - Variant 1 with optimized config
+- var2/ - Variant 2 with optimized config  
+- var3/ - Variant 3 with optimized config
+- var4/ - Variant 4 with optimized config
+
+Build Commands (run in each folder):
+cd var1
+g++ -std=c++17 -o variant1.exe variant1.cpp -pthread
+
+cd ..\var2
+g++ -std=c++17 -o variant2.exe variant2.cpp -pthread
+
+cd ..\var3
+g++ -std=c++17 -o variant3.exe variant3.cpp -pthread
+
+cd ..\var4
+g++ -std=c++17 -o variant4.exe variant4.cpp -pthread
+
+Run Commands (each folder has its own config):
+cd var1
+.\variant1.exe
+
+cd ..\var2
+.\variant2.exe
+
+cd ..\var3
+.\variant3.exe
+
+cd ..\var4
+.\variant4.exe
+
+Variant Descriptions:
+- Variant 1: Range Division / Immediate Print (shows interleaved output)
+- Variant 2: Range Division / Batched Print (waits for all threads, then prints)
+- Variant 3: Number Division / Immediate Print (producer-consumer with immediate output)
+- Variant 4: Number Division / Batched Print (producer-consumer with batched output)
+
+Demo Setup:
+Each folder contains pre-configured settings optimized for demonstration.
+No need to modify config files - just run each variant in its respective folder.
+All variants include execution time measurements for performance comparison.
+
