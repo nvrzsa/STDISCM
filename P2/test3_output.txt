@@ -1,0 +1,156 @@
+Enter max concurrent instances (n): Enter number of Tanks in queue (t): Enter number of Healers in queue (h): Enter number of DPS in queue (d): Enter min dungeon time (t1): Enter max dungeon time (t2) (<=15 recommended): 
+=== LFG Queue Starting ===
+Max concurrent instances: 4
+Player pool initial: 10T, 50H, 100D
+(A background arrival thread will add players randomly.)
+============================
+
+[Party 1] entered Instance 0. (Running for 3s)
+Instance Status: |   active |    empty |    empty |    empty |
+--------------------------------------------------------
+[Party 2] entered Instance 1. (Running for 2s)
+Instance Status: |   active |   active |    empty |    empty |
+--------------------------------------------------------
+[Party 3] entered Instance 2. (Running for 3s)
+Instance Status: |   active |   active |   active |    empty |
+--------------------------------------------------------
+[Party 4] entered Instance 3. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |
+--------------------------------------------------------
+[Arrival] added 1T 1H 6D
+[Party 4] finished Instance 3.
+Instance Status: |   active |   active |   active |    empty |
+--------------------------------------------------------
+[Party 5] entered Instance 3. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 2] finished Instance 1.
+Instance Status: |   active |    empty |   active |   active |
+--------------------------------------------------------
+[Party 6] entered Instance 1. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |
+--------------------------------------------------------
+[Arrival] added 2T 0H 5D
+[Party 1] finished Instance 0.
+Instance Status: |    empty |   active |    empty |   active |
+--------------------------------------------------------
+[Party 3] finished Instance 2.
+Instance Status: |    empty |   active |    empty |   active |
+--------------------------------------------------------
+[Party 7] entered Instance 0. (Running for 1s)
+Instance Status: |   active |   active |    empty |   active |
+--------------------------------------------------------
+[Party 8] entered Instance 2. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 7] finished Instance 0.
+Instance Status: |    empty |   active |   active |   active |
+--------------------------------------------------------
+[Party 9] entered Instance 0. (Running for 2s)
+Instance Status: |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 8] finished Instance 2.
+Instance Status: |   active |   active |    empty |   active |
+--------------------------------------------------------
+[Party 10] entered Instance 2. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 5] finished Instance 3.
+Instance Status: |   active |   active |   active |    empty |
+--------------------------------------------------------
+[Party 11] entered Instance 3. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |
+--------------------------------------------------------
+[Arrival] added 1T 0H 4D
+[Party 6] finished Instance 1.
+Instance Status: |   active |    empty |   active |   active |
+--------------------------------------------------------
+[Party 9] finished Instance 0.
+Instance Status: |    empty |    empty |   active |   active |
+--------------------------------------------------------
+[Party 13] entered Instance 0. (Running for 4s)
+Instance Status: |   active |    empty |   active |   active |
+--------------------------------------------------------
+[Party 12] entered Instance 1. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |
+--------------------------------------------------------
+[Arrival] added 1T 0H 2D
+[Party 10] finished Instance 2.
+Instance Status: |   active |   active |    empty |   active |
+--------------------------------------------------------
+[Party 14] entered Instance 2. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 14] finished Instance 2.
+Instance Status: |   active |   active |    empty |   active |
+--------------------------------------------------------
+[Party 15] entered Instance 2. (Running for 2s)
+Instance Status: |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 11] finished Instance 3.
+Instance Status: |   active |   active |   active |    empty |
+--------------------------------------------------------
+[Arrival] added 0T 0H 1D
+[Party 12] finished Instance 1.
+Instance Status: |   active |    empty |   active |    empty |
+--------------------------------------------------------
+[Arrival] added 1T 0H 6D
+[Party 16] entered Instance 1. (Running for 1s)
+Instance Status: |   active |   active |   active |    empty |
+--------------------------------------------------------
+[Party 13] finished Instance 0.
+Instance Status: |    empty |   active |   active |    empty |
+--------------------------------------------------------
+[Party 15] finished Instance 2.
+Instance Status: |    empty |   active |    empty |    empty |
+--------------------------------------------------------
+[Arrival] added 1T 2H 2D
+[Party 17] entered Instance 0. (Running for 2s)
+Instance Status: |   active |   active |    empty |    empty |
+--------------------------------------------------------
+[Party 16] finished Instance 1.
+Instance Status: |   active |    empty |    empty |    empty |
+--------------------------------------------------------
+[Arrival] added 1T 2H 4D
+[Party 18] entered Instance 1. (Running for 4s)
+Instance Status: |   active |   active |    empty |    empty |
+--------------------------------------------------------
+[Arrival] added 1T 1H 0D
+[Party 19] entered Instance 2. (Running for 2s)
+Instance Status: |   active |   active |   active |    empty |
+--------------------------------------------------------
+[Party 17] finished Instance 0.
+Instance Status: |    empty |   active |   active |    empty |
+--------------------------------------------------------
+[Party 19] finished Instance 2.
+Instance Status: |    empty |   active |    empty |    empty |
+--------------------------------------------------------
+[Arrival] added 1T 2H 0D
+[Party 18] finished Instance 1.
+Instance Status: |    empty |    empty |    empty |    empty |
+--------------------------------------------------------
+[Party 20] entered Instance 0. (Running for 2s)
+Instance Status: |   active |    empty |    empty |    empty |
+--------------------------------------------------------
+[Party 20] finished Instance 0.
+Instance Status: |    empty |    empty |    empty |    empty |
+--------------------------------------------------------
+
+=== QUEUE FINISHED: FINAL SUMMARY ===
+Instance 0:
+  - Parties Served:   6
+  - Total Time Served: 14s
+Instance 1:
+  - Parties Served:   5
+  - Total Time Served: 14s
+Instance 2:
+  - Parties Served:   6
+  - Total Time Served: 12s
+Instance 3:
+  - Parties Served:   3
+  - Total Time Served: 8s
+-------------------------------------
+Overall:
+  - Total Parties Served: 20
+  - Combined Time Served: 48s
+=====================================

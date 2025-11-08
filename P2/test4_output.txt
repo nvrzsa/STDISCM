@@ -1,0 +1,1308 @@
+Enter max concurrent instances (n): Enter number of Tanks in queue (t): Enter number of Healers in queue (h): Enter number of DPS in queue (d): Enter min dungeon time (t1): Enter max dungeon time (t2) (<=15 recommended): 
+=== LFG Queue Starting ===
+Max concurrent instances: 8
+Player pool initial: 200T, 200H, 1000D
+(A background arrival thread will add players randomly.)
+============================
+
+[Party 3] entered Instance 0. (Running for 2s)
+Instance Status: |   active |    empty |    empty |    empty |    empty |    empty |    empty |    empty |
+--------------------------------------------------------
+[Party 1] entered Instance 1. (Running for 1s)
+Instance Status: |   active |   active |    empty |    empty |    empty |    empty |    empty |    empty |
+--------------------------------------------------------
+[Party 2] entered Instance 2. (Running for 2s)
+Instance Status: |   active |   active |   active |    empty |    empty |    empty |    empty |    empty |
+--------------------------------------------------------
+[Party 4] entered Instance 3. (Running for 2s)
+Instance Status: |   active |   active |   active |   active |    empty |    empty |    empty |    empty |
+--------------------------------------------------------
+[Party 5] entered Instance 4. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |    empty |    empty |    empty |
+--------------------------------------------------------
+[Party 6] entered Instance 5. (Running for 2s)
+Instance Status: |   active |   active |   active |   active |   active |   active |    empty |    empty |
+--------------------------------------------------------
+[Party 7] entered Instance 6. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |    empty |
+--------------------------------------------------------
+[Party 8] entered Instance 7. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Arrival] added 2T 1H 3D
+[Party 1] finished Instance 1.
+Instance Status: |   active |    empty |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 8] finished Instance 7.
+Instance Status: |   active |    empty |   active |   active |   active |   active |   active |    empty |
+--------------------------------------------------------
+[Party 10] entered Instance 1. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |    empty |
+--------------------------------------------------------
+[Party 9] entered Instance 7. (Running for 2s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 3] finished Instance 0.
+Instance Status: |    empty |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 2] finished Instance 2.
+Instance Status: |   active |   active |    empty |    empty |   active |    empty |   active |   active |
+--------------------------------------------------------
+[Party 4] finished Instance 3.
+Instance Status: |   active |   active |   active |    empty |   active |    empty |   active |   active |
+--------------------------------------------------------
+[Party 11] entered Instance 0. (Running for 3s)
+Instance Status: |   active |   active |   active |    empty |   active |    empty |   active |   active |
+--------------------------------------------------------
+[Party 18] entered Instance 3. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |    empty |   active |   active |
+--------------------------------------------------------
+[Party 6] finished Instance 5.
+Instance Status: |   active |   active |   active |   active |   active |    empty |   active |   active |
+--------------------------------------------------------
+[Party 12] entered Instance 2. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 14] entered Instance 5. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 9] finished Instance 7.
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |    empty |
+--------------------------------------------------------
+[Party 15] entered Instance 7. (Running for 2s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 12] finished Instance 2.
+Instance Status: |   active |   active |    empty |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 16] entered Instance 2. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 5] finished Instance 4.
+Instance Status: |   active |   active |   active |   active |    empty |   active |   active |   active |
+--------------------------------------------------------
+[Party 7] finished Instance 6.
+Instance Status: |   active |   active |   active |   active |    empty |   active |    empty |   active |
+--------------------------------------------------------
+[Party 17] entered Instance 4. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |    empty |   active |
+--------------------------------------------------------
+[Party 13] entered Instance 6. (Running for 2s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 10] finished Instance 1.
+Instance Status: |   active |    empty |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 24] entered Instance 1. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Arrival] added 2T 2H 5D
+[Party 18] finished Instance 3.
+Instance Status: |    empty |   active |   active |    empty |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 11] finished Instance 0.
+Instance Status: |    empty |   active |   active |    empty |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 20] entered Instance 0. (Running for 3s)
+Instance Status: |   active |   active |   active |    empty |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 26] entered Instance 3. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 24] finished Instance 1.
+Instance Status: |   active |    empty |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 22] entered Instance 1. (Running for 2s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 15] finished Instance 7.
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |    empty |
+--------------------------------------------------------
+[Party 23] entered Instance 7. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 13] finished Instance 6.
+Instance Status: |   active |   active |   active |   active |   active |   active |    empty |   active |
+--------------------------------------------------------
+[Party 14] finished Instance 5.
+Instance Status: |   active |   active |   active |   active |   active |    empty |    empty |   active |
+--------------------------------------------------------
+[Party 19] entered Instance 5. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 25] entered Instance 6. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 23] finished Instance 7.
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |    empty |
+--------------------------------------------------------
+[Party 21] entered Instance 7. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Arrival] added 1T 1H 0D
+[Party 19] finished Instance 5.
+Instance Status: |   active |   active |   active |   active |   active |    empty |   active |   active |
+--------------------------------------------------------
+[Party 22] finished Instance 1.
+Instance Status: |   active |    empty |   active |   active |   active |    empty |   active |   active |
+--------------------------------------------------------
+[Party 33] entered Instance 1. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |    empty |   active |   active |
+--------------------------------------------------------
+[Party 28] entered Instance 5. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 16] finished Instance 2.
+Instance Status: |   active |   active |    empty |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 29] entered Instance 2. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 20] finished Instance 0.
+Instance Status: |    empty |   active |   active |   active |    empty |   active |   active |   active |
+--------------------------------------------------------
+[Party 17] finished Instance 4.
+Instance Status: |    empty |   active |   active |   active |    empty |   active |   active |   active |
+--------------------------------------------------------
+[Party 30] entered Instance 0. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |    empty |   active |   active |   active |
+--------------------------------------------------------
+[Party 31] entered Instance 4. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Arrival] added 1T 1H 3D
+[Party 28] finished Instance 5.
+Instance Status: |   active |   active |   active |   active |   active |    empty |   active |   active |
+--------------------------------------------------------
+[Party 32] entered Instance 5. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 29] finished Instance 2.
+Instance Status: |   active |   active |    empty |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 27] entered Instance 2. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 26] finished Instance 3.
+Instance Status: |   active |   active |   active |    empty |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 34] entered Instance 3. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 30] finished Instance 0.
+Instance Status: |    empty |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 35] entered Instance 0. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Arrival] added 1T 2H 2D
+[Party 27] finished Instance 2.
+Instance Status: |   active |   active |    empty |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 44] entered Instance 2. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 25] finished Instance 6.
+Instance Status: |   active |   active |   active |   active |   active |   active |    empty |   active |
+--------------------------------------------------------
+[Party 36] entered Instance 6. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 35] finished Instance 0.
+Instance Status: |    empty |    empty |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 33] finished Instance 1.
+Instance Status: |    empty |    empty |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 38] entered Instance 0. (Running for 4s)
+Instance Status: |   active |    empty |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 48] entered Instance 1. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 21] finished Instance 7.
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |    empty |
+--------------------------------------------------------
+[Party 40] entered Instance 7. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 36] finished Instance 6.
+Instance Status: |   active |   active |   active |   active |   active |   active |    empty |   active |
+--------------------------------------------------------
+[Party 41] entered Instance 6. (Running for 2s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 32] finished Instance 5.
+Instance Status: |   active |   active |   active |   active |   active |    empty |   active |   active |
+--------------------------------------------------------
+[Party 42] entered Instance 5. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 31] finished Instance 4.
+Instance Status: |   active |   active |   active |   active |    empty |   active |   active |   active |
+--------------------------------------------------------
+[Party 43] entered Instance 4. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Arrival] added 0T 1H 1D
+[Party 42] finished Instance 5.
+Instance Status: |   active |   active |   active |   active |   active |    empty |   active |   active |
+--------------------------------------------------------
+[Party 45] entered Instance 5. (Running for 2s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 34] finished Instance 3.
+Instance Status: |   active |   active |   active |    empty |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 37] entered Instance 3. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 41] finished Instance 6.
+Instance Status: |   active |   active |   active |   active |   active |   active |    empty |   active |
+--------------------------------------------------------
+[Party 46] entered Instance 6. (Running for 2s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 44] finished Instance 2.
+Instance Status: |   active |   active |    empty |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 47] entered Instance 2. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 38] finished Instance 0.
+Instance Status: |    empty |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 39] entered Instance 0. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 48] finished Instance 1.
+Instance Status: |   active |    empty |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 49] entered Instance 1. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 45] finished Instance 5.
+Instance Status: |   active |   active |   active |   active |   active |    empty |   active |   active |
+--------------------------------------------------------
+[Party 40] finished Instance 7.
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |    empty |
+--------------------------------------------------------
+[Party 50] entered Instance 5. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |    empty |
+--------------------------------------------------------
+[Party 51] entered Instance 7. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Arrival] added 1T 1H 0D
+[Party 46] finished Instance 6.
+Instance Status: |   active |   active |   active |   active |   active |   active |    empty |   active |
+--------------------------------------------------------
+[Party 52] entered Instance 6. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 50] finished Instance 5.
+Instance Status: |   active |   active |   active |   active |   active |    empty |   active |   active |
+--------------------------------------------------------
+[Party 53] entered Instance 5. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 43] finished Instance 4.
+Instance Status: |   active |   active |   active |   active |    empty |   active |   active |   active |
+--------------------------------------------------------
+[Party 54] entered Instance 4. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 52] finished Instance 6.
+Instance Status: |   active |   active |   active |   active |   active |   active |    empty |   active |
+--------------------------------------------------------
+[Party 55] entered Instance 6. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 37] finished Instance 3.
+Instance Status: |   active |   active |   active |    empty |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 56] entered Instance 3. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 49] finished Instance 1.
+Instance Status: |   active |    empty |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 57] entered Instance 1. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 39] finished Instance 0.
+Instance Status: |    empty |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 58] entered Instance 0. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Arrival] added 2T 2H 4D
+[Party 47] finished Instance 2.
+Instance Status: |   active |   active |    empty |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 51] finished Instance 7.
+Instance Status: |   active |   active |    empty |   active |   active |   active |   active |    empty |
+--------------------------------------------------------
+[Party 59] entered Instance 2. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |    empty |
+--------------------------------------------------------
+[Party 60] entered Instance 7. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 56] finished Instance 3.
+Instance Status: |   active |   active |   active |    empty |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 61] entered Instance 3. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 57] finished Instance 1.
+Instance Status: |   active |    empty |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 62] entered Instance 1. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 60] finished Instance 7.
+Instance Status: |   active |   active |   active |   active |   active |    empty |   active |    empty |
+--------------------------------------------------------
+[Party 53] finished Instance 5.
+Instance Status: |   active |   active |   active |   active |   active |    empty |   active |    empty |
+--------------------------------------------------------
+[Party 63] entered Instance 5. (Running for 2s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |    empty |
+--------------------------------------------------------
+[Party 64] entered Instance 7. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 64] finished Instance 7.
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |    empty |
+--------------------------------------------------------
+[Party 80] entered Instance 7. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 54] finished Instance 4.
+Instance Status: |   active |   active |   active |   active |    empty |   active |   active |   active |
+--------------------------------------------------------
+[Party 66] entered Instance 4. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 58] finished Instance 0.
+Instance Status: |    empty |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 82] entered Instance 0. (Running for 2s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Arrival] added 0T 1H 3D
+[Party 55] finished Instance 6.
+Instance Status: |   active |   active |   active |   active |   active |   active |    empty |   active |
+--------------------------------------------------------
+[Party 83] entered Instance 6. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 63] finished Instance 5.
+Instance Status: |   active |   active |   active |   active |   active |    empty |   active |   active |
+--------------------------------------------------------
+[Party 84] entered Instance 5. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 83] finished Instance 6.
+Instance Status: |   active |   active |   active |   active |   active |   active |    empty |   active |
+--------------------------------------------------------
+[Party 85] entered Instance 6. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 59] finished Instance 2.
+Instance Status: |   active |   active |    empty |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 71] entered Instance 2. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 61] finished Instance 3.
+Instance Status: |   active |   active |   active |    empty |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 72] entered Instance 3. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 82] finished Instance 0.
+Instance Status: |    empty |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 62] finished Instance 1.
+Instance Status: |   active |    empty |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 73] entered Instance 0. (Running for 4s)
+Instance Status: |   active |    empty |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 91] entered Instance 1. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 66] finished Instance 4.
+Instance Status: |   active |   active |   active |   active |    empty |   active |   active |   active |
+--------------------------------------------------------
+[Party 75] entered Instance 4. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Arrival] added 0T 0H 3D
+[Party 80] finished Instance 7.
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |    empty |
+--------------------------------------------------------
+[Party 76] entered Instance 7. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 84] finished Instance 5.
+Instance Status: |   active |   active |   active |   active |   active |    empty |   active |   active |
+--------------------------------------------------------
+[Party 77] entered Instance 5. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 71] finished Instance 2.
+Instance Status: |   active |   active |    empty |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 85] finished Instance 6.
+Instance Status: |   active |   active |    empty |   active |   active |   active |    empty |   active |
+--------------------------------------------------------
+[Party 78] entered Instance 2. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |    empty |   active |
+--------------------------------------------------------
+[Party 79] entered Instance 6. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 76] finished Instance 7.
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |    empty |
+--------------------------------------------------------
+[Party 77] finished Instance 5.
+Instance Status: |   active |   active |   active |   active |   active |    empty |   active |    empty |
+--------------------------------------------------------
+[Party 81] entered Instance 5. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 98] entered Instance 7. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 72] finished Instance 3.
+Instance Status: |   active |   active |   active |    empty |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 68] entered Instance 3. (Running for 2s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 78] finished Instance 2.
+Instance Status: |   active |   active |    empty |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 100] entered Instance 2. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 75] finished Instance 4.
+Instance Status: |   active |   active |   active |   active |    empty |   active |   active |   active |
+--------------------------------------------------------
+[Party 69] entered Instance 4. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 73] finished Instance 0.
+Instance Status: |    empty |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 70] entered Instance 0. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 91] finished Instance 1.
+Instance Status: |   active |    empty |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 86] entered Instance 1. (Running for 2s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 100] finished Instance 2.
+Instance Status: |   active |   active |    empty |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 87] entered Instance 2. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 68] finished Instance 3.
+Instance Status: |   active |   active |   active |    empty |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 105] entered Instance 3. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 98] finished Instance 7.
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |    empty |
+--------------------------------------------------------
+[Party 81] finished Instance 5.
+Instance Status: |   active |   active |   active |   active |   active |    empty |   active |    empty |
+--------------------------------------------------------
+[Party 87] finished Instance 2.
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |    empty |
+--------------------------------------------------------
+[Party 89] entered Instance 2. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |    empty |
+--------------------------------------------------------
+[Party 74] entered Instance 7. (Running for 2s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 90] entered Instance 5. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 79] finished Instance 6.
+Instance Status: |   active |    empty |   active |   active |   active |   active |    empty |   active |
+--------------------------------------------------------
+[Party 86] finished Instance 1.
+Instance Status: |   active |    empty |   active |   active |   active |   active |    empty |   active |
+--------------------------------------------------------
+[Party 92] entered Instance 1. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |    empty |   active |
+--------------------------------------------------------
+[Party 108] entered Instance 6. (Running for 2s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 89] finished Instance 2.
+Instance Status: |   active |   active |    empty |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 90] finished Instance 5.
+Instance Status: |   active |   active |    empty |   active |   active |    empty |   active |   active |
+--------------------------------------------------------
+[Party 95] entered Instance 2. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |    empty |   active |   active |
+--------------------------------------------------------
+[Party 94] entered Instance 5. (Running for 2s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 69] finished Instance 4.
+Instance Status: |   active |   active |   active |   active |    empty |   active |   active |   active |
+--------------------------------------------------------
+[Party 96] entered Instance 4. (Running for 2s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 92] finished Instance 1.
+Instance Status: |   active |    empty |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 97] entered Instance 1. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 74] finished Instance 7.
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |    empty |
+--------------------------------------------------------
+[Party 112] entered Instance 7. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 70] finished Instance 0.
+Instance Status: |    empty |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 67] entered Instance 0. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 108] finished Instance 6.
+Instance Status: |   active |   active |   active |   active |   active |   active |    empty |   active |
+--------------------------------------------------------
+[Party 99] entered Instance 6. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 94] finished Instance 5.
+Instance Status: |   active |   active |   active |   active |   active |    empty |   active |   active |
+--------------------------------------------------------
+[Party 101] entered Instance 5. (Running for 2s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 105] finished Instance 3.
+Instance Status: |   active |   active |   active |    empty |    empty |   active |   active |   active |
+--------------------------------------------------------
+[Party 96] finished Instance 4.
+Instance Status: |   active |   active |   active |    empty |    empty |   active |   active |   active |
+--------------------------------------------------------
+[Party 103] entered Instance 4. (Running for 2s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 115] entered Instance 3. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 97] finished Instance 1.
+Instance Status: |   active |    empty |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 104] entered Instance 1. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 95] finished Instance 2.
+Instance Status: |   active |   active |    empty |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 88] entered Instance 2. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 101] finished Instance 5.
+Instance Status: |   active |   active |   active |   active |   active |    empty |   active |   active |
+--------------------------------------------------------
+[Party 106] entered Instance 5. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 103] finished Instance 4.
+Instance Status: |   active |   active |   active |   active |    empty |   active |   active |   active |
+--------------------------------------------------------
+[Party 107] entered Instance 4. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 67] finished Instance 0.
+Instance Status: |    empty |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 93] entered Instance 0. (Running for 2s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 112] finished Instance 7.
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |    empty |
+--------------------------------------------------------
+[Party 121] entered Instance 7. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 115] finished Instance 3.
+Instance Status: |   active |   active |   active |    empty |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 110] entered Instance 3. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 99] finished Instance 6.
+Instance Status: |   active |   active |   active |   active |   active |   active |    empty |   active |
+--------------------------------------------------------
+[Party 111] entered Instance 6. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 110] finished Instance 3.
+Instance Status: |   active |   active |   active |    empty |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 65] entered Instance 3. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 93] finished Instance 0.
+Instance Status: |    empty |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 113] entered Instance 0. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 104] finished Instance 1.
+Instance Status: |   active |    empty |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 114] entered Instance 1. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 106] finished Instance 5.
+Instance Status: |   active |   active |   active |   active |   active |    empty |   active |   active |
+--------------------------------------------------------
+[Party 102] entered Instance 5. (Running for 2s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 113] finished Instance 0.
+Instance Status: |    empty |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 116] entered Instance 0. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 88] finished Instance 2.
+Instance Status: |   active |   active |    empty |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 117] entered Instance 2. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 107] finished Instance 4.
+Instance Status: |   active |   active |   active |   active |    empty |   active |   active |   active |
+--------------------------------------------------------
+[Party 118] entered Instance 4. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 121] finished Instance 7.
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |    empty |
+--------------------------------------------------------
+[Party 119] entered Instance 7. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 102] finished Instance 5.
+Instance Status: |   active |   active |   active |   active |   active |    empty |   active |   active |
+--------------------------------------------------------
+[Party 120] entered Instance 5. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 65] finished Instance 3.
+Instance Status: |   active |   active |   active |    empty |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 109] entered Instance 3. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 111] finished Instance 6.
+Instance Status: |   active |   active |   active |   active |   active |   active |    empty |   active |
+--------------------------------------------------------
+[Party 114] finished Instance 1.
+Instance Status: |   active |    empty |   active |   active |   active |   active |    empty |   active |
+--------------------------------------------------------
+[Party 130] entered Instance 1. (Running for 2s)
+Instance Status: |   active |   active |   active |   active |   active |   active |    empty |   active |
+--------------------------------------------------------
+[Party 123] entered Instance 6. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 116] finished Instance 0.
+Instance Status: |    empty |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 124] entered Instance 0. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 123] finished Instance 6.
+Instance Status: |   active |   active |   active |   active |   active |   active |    empty |   active |
+--------------------------------------------------------
+[Party 125] entered Instance 6. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 118] finished Instance 4.
+Instance Status: |   active |   active |   active |   active |    empty |   active |   active |   active |
+--------------------------------------------------------
+[Party 135] entered Instance 4. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 130] finished Instance 1.
+Instance Status: |   active |    empty |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 127] entered Instance 1. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 119] finished Instance 7.
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |    empty |
+--------------------------------------------------------
+[Party 117] finished Instance 2.
+Instance Status: |   active |   active |    empty |   active |   active |   active |   active |    empty |
+--------------------------------------------------------
+[Party 128] entered Instance 2. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |    empty |
+--------------------------------------------------------
+[Party 129] entered Instance 7. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 120] finished Instance 5.
+Instance Status: |   active |   active |   active |   active |   active |    empty |   active |   active |
+--------------------------------------------------------
+[Party 122] entered Instance 5. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |    empty |   active |
+--------------------------------------------------------
+[Party 125] finished Instance 6.
+Instance Status: |   active |   active |   active |   active |   active |   active |    empty |   active |
+--------------------------------------------------------
+[Party 132] entered Instance 6. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 135] finished Instance 4.
+Instance Status: |   active |   active |   active |   active |    empty |   active |   active |   active |
+--------------------------------------------------------
+[Party 131] entered Instance 4. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 122] finished Instance 5.
+Instance Status: |   active |   active |   active |   active |   active |    empty |   active |   active |
+--------------------------------------------------------
+[Party 133] entered Instance 5. (Running for 2s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 132] finished Instance 6.
+Instance Status: |   active |   active |   active |   active |   active |   active |    empty |   active |
+--------------------------------------------------------
+[Party 134] entered Instance 6. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 109] finished Instance 3.
+Instance Status: |   active |   active |   active |    empty |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 126] entered Instance 3. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 124] finished Instance 0.
+Instance Status: |    empty |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 136] entered Instance 0. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 129] finished Instance 7.
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |    empty |
+--------------------------------------------------------
+[Party 137] entered Instance 7. (Running for 2s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 133] finished Instance 5.
+Instance Status: |   active |   active |   active |   active |   active |    empty |   active |   active |
+--------------------------------------------------------
+[Party 139] entered Instance 5. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 131] finished Instance 4.
+Instance Status: |   active |   active |   active |   active |    empty |   active |   active |   active |
+--------------------------------------------------------
+[Party 140] entered Instance 4. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 127] finished Instance 1.
+Instance Status: |   active |    empty |    empty |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 128] finished Instance 2.
+Instance Status: |   active |    empty |    empty |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 138] entered Instance 1. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 141] entered Instance 2. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 139] finished Instance 5.
+Instance Status: |   active |   active |   active |   active |   active |    empty |   active |   active |
+--------------------------------------------------------
+[Party 142] entered Instance 5. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 136] finished Instance 0.
+Instance Status: |    empty |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 143] entered Instance 0. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 140] finished Instance 4.
+Instance Status: |   active |   active |   active |   active |    empty |   active |   active |   active |
+--------------------------------------------------------
+[Party 144] entered Instance 4. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 138] finished Instance 1.
+Instance Status: |   active |    empty |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 137] finished Instance 7.
+Instance Status: |   active |    empty |   active |   active |   active |   active |   active |    empty |
+--------------------------------------------------------
+[Party 146] entered Instance 1. (Running for 2s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 145] entered Instance 7. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 134] finished Instance 6.
+Instance Status: |   active |   active |   active |   active |   active |   active |    empty |   active |
+--------------------------------------------------------
+[Party 147] entered Instance 6. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 142] finished Instance 5.
+Instance Status: |   active |   active |   active |   active |   active |    empty |   active |   active |
+--------------------------------------------------------
+[Party 148] entered Instance 5. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 126] finished Instance 3.
+Instance Status: |   active |   active |   active |    empty |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 149] entered Instance 3. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 145] finished Instance 7.
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |    empty |
+--------------------------------------------------------
+[Party 150] entered Instance 7. (Running for 2s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 149] finished Instance 3.
+Instance Status: |   active |   active |   active |    empty |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 151] entered Instance 3. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 146] finished Instance 1.
+Instance Status: |   active |    empty |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 152] entered Instance 1. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 143] finished Instance 0.
+Instance Status: |    empty |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 153] entered Instance 0. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 144] finished Instance 4.
+Instance Status: |   active |   active |   active |   active |    empty |   active |   active |   active |
+--------------------------------------------------------
+[Party 151] finished Instance 3.
+Instance Status: |   active |   active |   active |    empty |    empty |   active |   active |   active |
+--------------------------------------------------------
+[Party 154] entered Instance 3. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |    empty |   active |   active |   active |
+--------------------------------------------------------
+[Party 155] entered Instance 4. (Running for 2s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 150] finished Instance 7.
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |    empty |
+--------------------------------------------------------
+[Party 156] entered Instance 7. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 141] finished Instance 2.
+Instance Status: |   active |   active |    empty |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 157] entered Instance 2. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 148] finished Instance 5.
+Instance Status: |   active |   active |   active |   active |   active |    empty |   active |   active |
+--------------------------------------------------------
+[Party 160] entered Instance 5. (Running for 2s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 153] finished Instance 0.
+Instance Status: |    empty |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 159] entered Instance 0. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 157] finished Instance 2.
+Instance Status: |   active |   active |    empty |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 158] entered Instance 2. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 147] finished Instance 6.
+Instance Status: |   active |   active |   active |   active |   active |   active |    empty |   active |
+--------------------------------------------------------
+[Party 161] entered Instance 6. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 155] finished Instance 4.
+Instance Status: |   active |   active |   active |   active |    empty |   active |   active |   active |
+--------------------------------------------------------
+[Party 162] entered Instance 4. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 152] finished Instance 1.
+Instance Status: |   active |    empty |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 163] entered Instance 1. (Running for 2s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 160] finished Instance 5.
+Instance Status: |   active |   active |   active |   active |   active |    empty |   active |   active |
+--------------------------------------------------------
+[Party 164] entered Instance 5. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 162] finished Instance 4.
+Instance Status: |   active |   active |   active |   active |    empty |   active |   active |   active |
+--------------------------------------------------------
+[Party 165] entered Instance 4. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 156] finished Instance 7.
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |    empty |
+--------------------------------------------------------
+[Party 166] entered Instance 7. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 164] finished Instance 5.
+Instance Status: |   active |   active |   active |   active |   active |    empty |   active |   active |
+--------------------------------------------------------
+[Party 171] entered Instance 5. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 154] finished Instance 3.
+Instance Status: |   active |   active |   active |    empty |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 168] entered Instance 3. (Running for 2s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 158] finished Instance 2.
+Instance Status: |   active |   active |    empty |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 169] entered Instance 2. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 161] finished Instance 6.
+Instance Status: |   active |   active |   active |   active |   active |   active |    empty |   active |
+--------------------------------------------------------
+[Party 170] entered Instance 6. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 163] finished Instance 1.
+Instance Status: |   active |    empty |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 167] entered Instance 1. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 159] finished Instance 0.
+Instance Status: |    empty |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 177] entered Instance 0. (Running for 2s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 169] finished Instance 2.
+Instance Status: |   active |   active |    empty |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 173] entered Instance 2. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 165] finished Instance 4.
+Instance Status: |   active |   active |   active |   active |    empty |   active |   active |   active |
+--------------------------------------------------------
+[Party 179] entered Instance 3. (Running for 2s)
+Instance Status: |   active |   active |   active |   active |    empty |   active |   active |   active |
+--------------------------------------------------------
+[Party 168] finished Instance 3.
+Instance Status: |   active |   active |   active |   active |    empty |   active |   active |   active |
+--------------------------------------------------------
+[Party 175] entered Instance 4. (Running for 2s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 166] finished Instance 7.
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |    empty |
+--------------------------------------------------------
+[Party 181] entered Instance 7. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 177] finished Instance 0.
+Instance Status: |    empty |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 172] entered Instance 0. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 181] finished Instance 7.
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |    empty |
+--------------------------------------------------------
+[Party 178] entered Instance 7. (Running for 2s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 170] finished Instance 6.
+Instance Status: |   active |    empty |   active |   active |   active |   active |    empty |   active |
+--------------------------------------------------------
+[Party 167] finished Instance 1.
+Instance Status: |   active |    empty |   active |   active |   active |   active |    empty |   active |
+--------------------------------------------------------
+[Party 174] entered Instance 1. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |   active |    empty |   active |
+--------------------------------------------------------
+[Party 180] entered Instance 6. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 171] finished Instance 5.
+Instance Status: |   active |   active |   active |   active |   active |    empty |   active |   active |
+--------------------------------------------------------
+[Party 176] entered Instance 5. (Running for 2s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 179] finished Instance 3.
+Instance Status: |   active |   active |   active |    empty |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 182] entered Instance 3. (Running for 2s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 175] finished Instance 4.
+Instance Status: |   active |   active |   active |   active |    empty |   active |   active |   active |
+--------------------------------------------------------
+[Party 183] entered Instance 4. (Running for 2s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 172] finished Instance 0.
+Instance Status: |    empty |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 184] entered Instance 0. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 178] finished Instance 7.
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |    empty |
+--------------------------------------------------------
+[Party 185] entered Instance 7. (Running for 2s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 173] finished Instance 2.
+Instance Status: |   active |   active |    empty |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 186] entered Instance 2. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 176] finished Instance 5.
+Instance Status: |   active |   active |   active |   active |   active |    empty |   active |   active |
+--------------------------------------------------------
+[Party 187] entered Instance 5. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 182] finished Instance 3.
+Instance Status: |   active |   active |   active |    empty |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 188] entered Instance 3. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 183] finished Instance 4.
+Instance Status: |   active |   active |   active |   active |    empty |   active |   active |   active |
+--------------------------------------------------------
+[Party 189] entered Instance 4. (Running for 2s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 186] finished Instance 2.
+Instance Status: |   active |   active |    empty |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 190] entered Instance 2. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 174] finished Instance 1.
+Instance Status: |   active |    empty |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 191] entered Instance 1. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 180] finished Instance 6.
+Instance Status: |   active |   active |   active |   active |   active |   active |    empty |   active |
+--------------------------------------------------------
+[Party 192] entered Instance 6. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 187] finished Instance 5.
+Instance Status: |   active |   active |   active |   active |   active |    empty |   active |   active |
+--------------------------------------------------------
+[Party 193] entered Instance 5. (Running for 2s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 188] finished Instance 3.
+Instance Status: |   active |   active |   active |    empty |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 194] entered Instance 3. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 185] finished Instance 7.
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |    empty |
+--------------------------------------------------------
+[Party 195] entered Instance 7. (Running for 2s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 189] finished Instance 4.
+Instance Status: |   active |   active |   active |   active |    empty |   active |   active |   active |
+--------------------------------------------------------
+[Party 196] entered Instance 4. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 184] finished Instance 0.
+Instance Status: |    empty |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 197] entered Instance 0. (Running for 2s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 193] finished Instance 5.
+Instance Status: |   active |   active |   active |   active |   active |    empty |   active |   active |
+--------------------------------------------------------
+[Party 198] entered Instance 5. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 195] finished Instance 7.
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |    empty |
+--------------------------------------------------------
+[Party 199] entered Instance 7. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 198] finished Instance 5.
+Instance Status: |   active |   active |   active |   active |   active |    empty |   active |   active |
+--------------------------------------------------------
+[Party 200] entered Instance 5. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 197] finished Instance 0.
+Instance Status: |    empty |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 201] entered Instance 0. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 194] finished Instance 3.
+Instance Status: |   active |   active |   active |    empty |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 202] entered Instance 3. (Running for 1s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 190] finished Instance 2.
+Instance Status: |   active |   active |    empty |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 203] entered Instance 2. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 191] finished Instance 1.
+Instance Status: |   active |    empty |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 204] entered Instance 1. (Running for 2s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 192] finished Instance 6.
+Instance Status: |   active |   active |   active |   active |   active |   active |    empty |   active |
+--------------------------------------------------------
+[Party 205] entered Instance 6. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 200] finished Instance 5.
+Instance Status: |   active |   active |   active |   active |   active |    empty |   active |   active |
+--------------------------------------------------------
+[Party 206] entered Instance 5. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 196] finished Instance 4.
+Instance Status: |   active |   active |   active |   active |    empty |   active |   active |   active |
+--------------------------------------------------------
+[Party 207] entered Instance 4. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 202] finished Instance 3.
+Instance Status: |   active |   active |   active |    empty |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 208] entered Instance 3. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 204] finished Instance 1.
+Instance Status: |   active |    empty |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 209] entered Instance 1. (Running for 4s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 201] finished Instance 0.
+Instance Status: |    empty |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 210] entered Instance 0. (Running for 3s)
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |   active |
+--------------------------------------------------------
+[Party 199] finished Instance 7.
+Instance Status: |   active |   active |   active |   active |   active |   active |   active |    empty |
+--------------------------------------------------------
+[Party 208] finished Instance 3.
+Instance Status: |   active |   active |   active |    empty |   active |   active |   active |    empty |
+--------------------------------------------------------
+[Party 203] finished Instance 2.
+Instance Status: |   active |   active |    empty |    empty |   active |   active |   active |    empty |
+--------------------------------------------------------
+[Party 205] finished Instance 6.
+Instance Status: |   active |   active |    empty |    empty |   active |   active |    empty |    empty |
+--------------------------------------------------------
+[Party 206] finished Instance 5.
+Instance Status: |   active |   active |    empty |    empty |   active |    empty |    empty |    empty |
+--------------------------------------------------------
+[Party 207] finished Instance 4.
+Instance Status: |   active |   active |    empty |    empty |    empty |    empty |    empty |    empty |
+--------------------------------------------------------
+[Party 210] finished Instance 0.
+Instance Status: |    empty |   active |    empty |    empty |    empty |    empty |    empty |    empty |
+--------------------------------------------------------
+[Party 209] finished Instance 1.
+Instance Status: |    empty |    empty |    empty |    empty |    empty |    empty |    empty |    empty |
+--------------------------------------------------------
+
+=== QUEUE FINISHED: FINAL SUMMARY ===
+Instance 0:
+  - Parties Served:   26
+  - Total Time Served: 68s
+Instance 1:
+  - Parties Served:   26
+  - Total Time Served: 68s
+Instance 2:
+  - Parties Served:   25
+  - Total Time Served: 66s
+Instance 3:
+  - Parties Served:   25
+  - Total Time Served: 66s
+Instance 4:
+  - Parties Served:   24
+  - Total Time Served: 67s
+Instance 5:
+  - Parties Served:   33
+  - Total Time Served: 66s
+Instance 6:
+  - Parties Served:   24
+  - Total Time Served: 66s
+Instance 7:
+  - Parties Served:   27
+  - Total Time Served: 65s
+-------------------------------------
+Overall:
+  - Total Parties Served: 210
+  - Combined Time Served: 532s
+=====================================
